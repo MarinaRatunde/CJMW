@@ -1,0 +1,6 @@
+echo "# CJMW" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git remoto add origem https://github.com/MarinaRatunde/CJMW.git
+ git push -u origem master
